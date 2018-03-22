@@ -1,0 +1,1 @@
+If you want to check your version of packages (Numpy, Pandas, etc). Do this: numpy.__version__
